@@ -1,0 +1,4 @@
+#Sat Jul 04 21:38:00 COT 2020
+base.0=C\:\\Users\\diieg\\Documents\\proyectos\\basico_diseno\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
